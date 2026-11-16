@@ -1,0 +1,15 @@
+C:\Users\Dell\elevvo-module2\RawServer\bin\Debug\net10.0\RawServer.exe
+C:\Users\Dell\elevvo-module2\RawServer\bin\Debug\net10.0\RawServer.deps.json
+C:\Users\Dell\elevvo-module2\RawServer\bin\Debug\net10.0\RawServer.runtimeconfig.json
+C:\Users\Dell\elevvo-module2\RawServer\bin\Debug\net10.0\RawServer.dll
+C:\Users\Dell\elevvo-module2\RawServer\bin\Debug\net10.0\RawServer.pdb
+C:\Users\Dell\elevvo-module2\RawServer\obj\Debug\net10.0\RawServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\elevvo-module2\RawServer\obj\Debug\net10.0\RawServer.AssemblyInfoInputs.cache
+C:\Users\Dell\elevvo-module2\RawServer\obj\Debug\net10.0\RawServer.AssemblyInfo.cs
+C:\Users\Dell\elevvo-module2\RawServer\obj\Debug\net10.0\RawServer.csproj.CoreCompileInputs.cache
+C:\Users\Dell\elevvo-module2\RawServer\obj\Debug\net10.0\RawServer.dll
+C:\Users\Dell\elevvo-module2\RawServer\obj\Debug\net10.0\refint\RawServer.dll
+C:\Users\Dell\elevvo-module2\RawServer\obj\Debug\net10.0\RawServer.pdb
+C:\Users\Dell\elevvo-module2\RawServer\obj\Debug\net10.0\RawServer.genruntimeconfig.cache
+C:\Users\Dell\elevvo-module2\RawServer\obj\Debug\net10.0\ref\RawServer.dll
+C:\Users\Dell\elevvo-module2\RawServer\obj\Debug\net10.0\RawServer.csproj.Up2Date
